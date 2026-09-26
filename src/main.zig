@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0 OR MIT
-// Copyright (c) 2025 Usman Saleem
+// Copyright (c) 2025 Hyperoz Labs
 
 const std = @import("std");
 const blskeystore = @import("blskeystore");
